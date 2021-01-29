@@ -1,0 +1,9 @@
+author = Your Name
+version = 0.1
+displayName = Put Your Mod name here
+homepage = 
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
