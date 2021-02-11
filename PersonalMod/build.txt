@@ -1,0 +1,3 @@
+author = kuhale
+version = 0.1
+displayName = PersonalMod
